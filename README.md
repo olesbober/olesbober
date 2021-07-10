@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olesbober
-- 👀 I’m interested in ... blockchain and ML
-- 🌱 I’m currently learning ... PyTorch and TensorFlow
+- 👀 I’m interested in ... blockchain, ML, and full stack development
+- 🌱 I’m currently learning ... React.js and .NET
 - 📚 I’m looking to learn more about ... app development
 
 <!---
