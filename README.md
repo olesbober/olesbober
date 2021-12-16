@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olesbober
-- 👀 I’m interested in ... blockchain, ML, and full stack development
-- 🌱 I’m currently learning ... React.js, Bootstrap, and .NET
+- 👀 I’m interested in ... blockchain and Android development
+- 🌱 I’m currently learning ... Javascript, React, and Kotlin
 - 📚 I’m looking to learn more about ... app development and full stack development
 
 <!---
